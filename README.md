@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @hamzashahbaz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello friends! 👋
+
+I'm Hamza Shahbaz.
+
+I am a Software Developer based in the California.
+
 
 <!---
 hamzashahbaz/hamzashahbaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
