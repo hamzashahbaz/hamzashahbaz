@@ -48,7 +48,7 @@ Most of my current work lives in a private monorepo. Here's what's in it:
 
 ## Community
 
-🎓 **[Ship With AI](https://www.skool.com/ai-labs-4050)** — I help brand owners and agency owners set up AI with Claude and OpenAI Codex. Join if you want to stop watching tutorials and start shipping.
+🎓 **[Ship With AI](https://www.skool.com/ai-labs-4050)** — I help brand owners and agency owners set up AI systems with Claude. Join if you want to stop watching tutorials and start shipping.
 
 ## Connect
 
