@@ -1,6 +1,6 @@
 # Hey, I'm Hamza 👋
 
-📍 **Anaheim, CA** | 🤖 **AI-first developer** | 🚀 **Founder of Devturn**
+📍 **Anaheim, CA** | 🤖 **AI-first developer** | 🚀 **Hamza Digital**
 
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-5A0FC8?style=flat-square&logo=anthropic&logoColor=white)
