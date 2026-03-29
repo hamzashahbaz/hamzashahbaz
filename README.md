@@ -21,7 +21,7 @@ Most of my current work lives in a private monorepo. Here's what's in it:
 - 💾 **Persistent Agent Memory Architecture** — File-based memory system that carries context across conversations. Corrections stick. Preferences persist. The agents get better every session.
 - ⚡ **Custom Slash Commands** — Inbox management, session persistence, agent delegation workflows. The boring stuff runs itself.
 
-## Open Source
+## Projects
 
 - 🤖 **[reddit-mcp](https://github.com/hamzashahbaz/reddit-mcp)** — MCP server for Reddit's Data API — 🟢 Live
 - 🛍️ **[shopify-mcp-server](https://github.com/hamzashahbaz/shopify-mcp-server)** — MCP server for Shopify's Admin API — 🟡 In Development
