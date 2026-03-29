@@ -12,6 +12,8 @@
 
 > 13 years of web dev. Now I build the AI systems that make the next 13 worth 130. Where code meets conversion.
 
+🏆 **[vibrants.com](https://vibrants.com)** - Awwwards Honorable Mention + Mobile Excellence
+
 ## Projects
 
 - 🤖 **[reddit-mcp](https://github.com/hamzashahbaz/reddit-mcp)** - MCP server for Reddit's Data API - 🟢 Live
