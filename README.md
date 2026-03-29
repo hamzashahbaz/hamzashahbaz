@@ -46,6 +46,10 @@ Most of my current work lives in a private monorepo. Here's what's in it:
 - **Writing about AI + web dev** — Sharing what actually works at [hamzashahbaz.com](https://hamzashahbaz.com)
 - **Shipping MCP servers** — Giving AI agents real capabilities: email, Shopify admin, and more
 
+## Community
+
+🎓 **[AI Society](https://www.skool.com/ai-labs-4050)** — I help brand owners and agency owners set up AI with Claude and OpenAI Codex. Join if you want to stop watching tutorials and start shipping.
+
 ## Connect
 
 [![Website](https://img.shields.io/badge/-hamzashahbaz.com-FF5722?style=flat-square&logo=astro&logoColor=white)](https://hamzashahbaz.com)
