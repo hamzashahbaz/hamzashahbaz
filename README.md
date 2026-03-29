@@ -59,6 +59,11 @@ Most of my current work lives in a private monorepo. Here's what's in it:
 
 ---
 
+### Recognition
+
+- 🏆 **[Awwwards Honorable Mention](https://www.awwwards.com/sites/vibrants)** — Vibrants
+- 📱 **Awwwards Mobile Excellence** — Vibrants
+
 ### Model Status
 
 - **What model is Hamza using?** Claude Code with Opus 4.6
