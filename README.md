@@ -12,7 +12,7 @@
 ![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-> 13 years of web dev. Now I build the AI systems that make the next 13 worth 130. Where code meets conversion.
+> Deep in agent mode - building AI-powered tools that actually ship. After 13+ years of web dev, this is the most fun I've ever had coding.
 
 🏆 **[vibrants.com](https://vibrants.com)** - Awwwards Honorable Mention + Mobile Excellence
 
