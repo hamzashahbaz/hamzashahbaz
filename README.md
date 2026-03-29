@@ -1,45 +1,73 @@
-# Hamza Shahbaz
+# Hey, I'm Hamza 👋
 
-**I build AI agent systems that actually ship.**
+📍 **Anaheim, CA** | 🤖 **AI-first developer** | 🚀 **Founder of Devturn**
 
-Senior developer (13+ years) specializing in Claude Code, MCP servers, and multi-agent orchestration. I design the tooling and workflows that make AI useful in production — not just demos.
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-5A0FC8?style=flat-square&logo=anthropic&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Liquid](https://img.shields.io/badge/-Liquid-2C2C2C?style=flat-square&logo=shopify&logoColor=white)
 
-Founder of [Devturn](https://devturn.com), based in Anaheim, CA.
+> 13 years of web dev. Now I build the AI systems that make the next 13 worth 130. Where code meets conversion.
 
-## What I Build
+## What I'm Building
 
-**AI Infrastructure** — Multi-agent systems with persistent memory, custom skills, and orchestrated delegation. My current architecture runs 7 specialized agents through a hub-and-spoke model, each with scoped tools and domain-specific knowledge.
+Most of my current work lives in a private monorepo. Here's what's in it:
 
-**MCP Servers** — Production-grade Model Context Protocol servers that connect AI to real systems. TypeScript, stdio transport, built for reliability.
-
-**Web Systems** — High-performance sites and Shopify stores where the architecture serves the business goal. Astro, Cloudflare Workers, Liquid, Tailwind.
-
-## Expertise
-
-```
-AI/LLM Engineering    Claude Code | MCP Protocol | Agent Orchestration
-                      Prompt Engineering | RAG Systems | Tool Design
-
-Web Development       Astro | Shopify (Themes, Apps, Liquid) | Node.js
-                      Tailwind | GSAP | Cloudflare Workers
-
-Architecture          Multi-Agent Systems | Persistent Memory Design
-                      Skill-Based AI Workflows | Custom Slash Commands
-```
+- 🧠 **7-Agent Hub-and-Spoke System** — A full AI team orchestrated through Claude Code. One brain delegates, seven specialists execute. Designer, developer, copywriter, SEO strategist, and more — each with scoped tools and domain knowledge.
+- 🔧 **30+ Custom Claude Code Skills** — Domain-specific knowledge packs for AI engineering, web dev, Shopify, design systems, SEO, and content strategy. The agents don't guess — they know.
+- 💾 **Persistent Agent Memory Architecture** — File-based memory system that carries context across conversations. Corrections stick. Preferences persist. The agents get better every session.
+- ⚡ **Custom Slash Commands** — Inbox management, session persistence, agent delegation workflows. The boring stuff runs itself.
 
 ## Open Source
 
-Building MCP servers that give AI agents real capabilities:
+- 🛍️ **[shopify-mcp-server](https://github.com/hamzashahbaz/shopify-mcp-server)** — MCP server connecting Claude to Shopify admin operations. In active development.
+- 📬 **Outlook MCP Server** — 19 tools for email management via Microsoft Graph API. TypeScript, OAuth2, stdio transport. *Coming soon.*
 
-- **Outlook MCP Server** — 19 tools for email management via Microsoft Graph API. TypeScript, OAuth2, stdio transport.
-- **Shopify MCP Server** — Connecting Claude to Shopify admin operations. In development.
+## Legacy Work
 
-More coming as tools mature from internal use to public release.
+- 🧩 **[fiberui](https://github.com/hamzashahbaz/fiberui)** — React UI component library with styled-components
+- 🎨 **[styleup](https://github.com/hamzashahbaz/styleup)** — CSS framework for faster UI development
+- 📐 **[responsive-sass-mixin](https://github.com/hamzashahbaz/responsive-sass-mixin)** — Sass responsive utility mixin
+- 🖥️ **[restful-server](https://github.com/hamzashahbaz/restful-server)** — Production-ready RESTful server in Node.js
+- 📄 **[wordpress-theme-starter](https://github.com/hamzashahbaz/wordpress-theme-starter)** — WordPress theme starter with modern tooling
+- 🏠 **[airbnb-clone](https://github.com/hamzashahbaz/airbnb-clone)** — Airbnb clone in TypeScript
 
-## Where Code Meets Conversion
+## GitHub Activity
 
-I've spent 13 years building for the web. Now I build the systems that make AI useful for people who build for the web.
+![GitHub Contribution Graph](https://ghchart.rshah.org/hamzashahbaz)
 
-If you're working on Claude Code tooling, MCP servers, or agent systems — I'm probably interested.
+## What I'm Doing
 
-**[hamzashahbaz.com](https://hamzashahbaz.com)**
+- **Building AI infrastructure** — Multi-agent systems, MCP servers, and skill-based workflows that solve real problems, not demos
+- **Running Devturn** — Shopify development studio. Custom themes, apps, and integrations for brands that need to convert
+- **Writing about AI + web dev** — Sharing what actually works at [hamzashahbaz.com](https://hamzashahbaz.com)
+- **Shipping MCP servers** — Giving AI agents real capabilities: email, Shopify admin, and more
+
+## Connect
+
+[![Website](https://img.shields.io/badge/-hamzashahbaz.com-FF5722?style=flat-square&logo=astro&logoColor=white)](https://hamzashahbaz.com)
+[![LinkedIn](https://img.shields.io/badge/-Hamza_Shahbaz-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzashahbaz)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hamzashahbaz)
+
+---
+
+### Philosophy
+
+> "Ship beats perfect. AI beats manual. Systems beat hustle." — I spent 13 years learning how the web works. Now I build the systems that let AI work the web for me.
+
+<details>
+<summary>Random Facts</summary>
+
+- My AI agents have opinions about my code and they're usually right
+- I treat Claude Code sessions like pair programming — except my pair never needs coffee
+- Shopify Liquid is an underrated templating language and I will die on this hill
+- Anaheim's best export isn't theme parks — it's fast internet and good tacos
+- I've mass-deleted more repos than most people have created (you're welcome, GitHub)
+
+</details>
