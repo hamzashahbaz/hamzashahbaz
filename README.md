@@ -39,10 +39,10 @@
 
 ## What I'm Doing
 
-- **Building AI infrastructure** - Multi-agent systems, MCP servers, and skill-based workflows that solve real problems, not demos
-- **Running Devturn** - Shopify development studio. Custom themes, apps, and integrations for brands that need to convert
-- **Writing about AI + web dev** - Sharing what actually works at [hamzashahbaz.com](https://hamzashahbaz.com)
-- **Shipping MCP servers** - Giving AI agents real capabilities: email, Shopify admin, and more
+- **Wiring the future of commerce** - Teaching AI agents to do the work that used to take entire teams
+- **Crafting stores at Devturn** - Building Shopify experiences that actually convert, not just look good
+- **Always building something** - Tools, SaaS, and systems for the next wave of ecommerce
+- **Thinking out loud** - Writing about AI and ecommerce at [hamzashahbaz.com](https://hamzashahbaz.com)
 
 ## Community
 
