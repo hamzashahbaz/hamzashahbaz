@@ -22,8 +22,8 @@ Most of my current work lives in a private monorepo. Here's what's in it:
 
 ## Open Source
 
-- 🤖 **[reddit-mcp](https://github.com/hamzashahbaz/reddit-mcp)** — MCP server for Reddit's Data API | 🟢 Live
-- 🛍️ **[shopify-mcp-server](https://github.com/hamzashahbaz/shopify-mcp-server)** — MCP server for Shopify's Admin API | 🟡 In Development
+- 🤖 **[reddit-mcp](https://github.com/hamzashahbaz/reddit-mcp)** — MCP server for Reddit's Data API — 🟢 Live
+- 🛍️ **[shopify-mcp-server](https://github.com/hamzashahbaz/shopify-mcp-server)** — MCP server for Shopify's Admin API — 🟡 In Development
 - 📬 **Outlook MCP Server** — 19 tools for email management via Microsoft Graph API. TypeScript, OAuth2, stdio transport. *Coming soon.*
 
 ## Legacy Work
