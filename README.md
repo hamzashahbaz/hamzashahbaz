@@ -12,15 +12,6 @@
 
 > 13 years of web dev. Now I build the AI systems that make the next 13 worth 130. Where code meets conversion.
 
-## What I'm Building
-
-Most of my current work lives in a private monorepo. Here's what's in it:
-
-- 🧠 **7-Agent Hub-and-Spoke System** - A full AI team orchestrated through Claude Code. One brain delegates, seven specialists execute. Designer, developer, copywriter, SEO strategist, and more - each with scoped tools and domain knowledge.
-- 🔧 **30+ Custom Claude Code Skills** - Domain-specific knowledge packs for AI engineering, web dev, Shopify, design systems, SEO, and content strategy. The agents don't guess - they know.
-- 💾 **Persistent Agent Memory Architecture** - File-based memory system that carries context across conversations. Corrections stick. Preferences persist. The agents get better every session.
-- ⚡ **Custom Slash Commands** - Inbox management, session persistence, agent delegation workflows. The boring stuff runs itself.
-
 ## Projects
 
 - 🤖 **[reddit-mcp](https://github.com/hamzashahbaz/reddit-mcp)** - MCP server for Reddit's Data API - 🟢 Live
