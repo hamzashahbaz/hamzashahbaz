@@ -59,6 +59,10 @@ Most of my current work lives in a private monorepo. Here's what's in it:
 
 ---
 
+### Model Status
+
+- **What model is Hamza using?** Claude Opus 4 — always the latest, always shipping.
+
 ### Philosophy
 
 > "Ship beats perfect. AI beats manual. Systems beat hustle." — I spent 13 years learning how the web works. Now I build the systems that let AI work the web for me.
