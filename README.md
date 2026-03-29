@@ -61,7 +61,7 @@ Most of my current work lives in a private monorepo. Here's what's in it:
 
 ### Model Status
 
-- **What model is Hamza using?** Claude Code with Opus 4
+- **What model is Hamza using?** Claude Code with Opus 4.6
 
 ### Philosophy
 
