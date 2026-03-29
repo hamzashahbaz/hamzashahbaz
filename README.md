@@ -8,6 +8,7 @@
 ![Liquid](https://img.shields.io/badge/-Liquid-2C2C2C?style=flat-square&logo=shopify&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 > 13 years of web dev. Now I build the AI systems that make the next 13 worth 130. Where code meets conversion.
 
