@@ -21,9 +21,9 @@
 
 - 🛍️ **[shopify-mcp-server](https://github.com/hamzashahbaz/shopify-mcp-server)** - MCP server for Shopify's Admin API
 - 🛒 **[ecom-mcp-servers](https://github.com/hamzashahbaz/ecom-mcp-servers)** - Directory of 31 official MCP servers for eCommerce brands
+- 💧 **[liquid-dev](https://github.com/hamzashahbaz/liquid-dev)** - Shopify Liquid development toolkit for Claude Code
 - 🤖 **[reddit-mcp](https://github.com/hamzashahbaz/reddit-mcp)** - MCP server for Reddit's Data API
 - 🔒 **[ai-security-skill](https://github.com/hamzashahbaz/ai-security-skill)** - Prompt-based security audit for AI systems
-- 💧 **[liquid-dev](https://github.com/hamzashahbaz/liquid-dev)** - Shopify Liquid development toolkit for Claude Code
 - 📬 **[outlook-mcp](https://github.com/hamzashahbaz/outlook-mcp)** - MCP server for Microsoft's Graph API
 ## GitHub Activity
 
