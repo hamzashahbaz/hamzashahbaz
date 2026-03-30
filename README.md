@@ -23,6 +23,7 @@
 - 🛍️ **[shopify-mcp-server](https://github.com/hamzashahbaz/shopify-mcp-server)** - MCP server for Shopify's Admin API - 🟢 Live
 - 📬 **[outlook-mcp](https://github.com/hamzashahbaz/outlook-mcp)** - MCP server for Microsoft's Graph API - 🟢 Live
 - 🔒 **[ai-security-skill](https://github.com/hamzashahbaz/ai-security-skill)** - Prompt-based security audit for AI systems - 🟢 Live
+- 🛒 **[ecom-mcp-servers](https://github.com/hamzashahbaz/ecom-mcp-servers)** - Directory of 31 official MCP servers for eCommerce brands - 🟢 Live
 
 ## GitHub Activity
 
@@ -31,7 +32,7 @@
 ## What I'm Doing
 
 - **Wiring the future of commerce** - Teaching AI agents to do the work that used to take entire teams
-- **Crafting stores at Devturn** - Building Shopify experiences that actually convert, not just look good
+- **Crafting stores at Hamza Digital** - Building Shopify experiences that actually convert, not just look good
 - **Always building something** - Tools, SaaS, and systems for the next wave of ecommerce
 - **Thinking out loud** - Writing about AI and ecommerce at [hamzashahbaz.com](https://hamzashahbaz.com)
 
