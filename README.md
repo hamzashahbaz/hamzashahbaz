@@ -20,7 +20,7 @@
 ## Projects
 
 - 🤖 **[reddit-mcp](https://github.com/hamzashahbaz/reddit-mcp)** - MCP server for Reddit's Data API - 🟢 Live
-- 🛍️ **[shopify-mcp-server](https://github.com/hamzashahbaz/shopify-mcp-server)** - MCP server for Shopify's Admin API - 🟡 In Development
+- 🛍️ **[shopify-mcp-server](https://github.com/hamzashahbaz/shopify-mcp-server)** - MCP server for Shopify's Admin API - 🟢 Live
 - 📬 **[outlook-mcp](https://github.com/hamzashahbaz/outlook-mcp)** - MCP server for Microsoft's Graph API - 🟢 Live
 - 🔒 **[ai-security-skill](https://github.com/hamzashahbaz/ai-security-skill)** - Prompt-based security audit for AI systems - 🟢 Live
 
