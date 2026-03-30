@@ -24,6 +24,7 @@
 - 🤖 **[reddit-mcp](https://github.com/hamzashahbaz/reddit-mcp)** - MCP server for Reddit's Data API
 - 📬 **[outlook-mcp](https://github.com/hamzashahbaz/outlook-mcp)** - MCP server for Microsoft's Graph API
 - 🔒 **[ai-security-skill](https://github.com/hamzashahbaz/ai-security-skill)** - Prompt-based security audit for AI systems
+- 💧 **[liquid-dev](https://github.com/hamzashahbaz/liquid-dev)** - Shopify Liquid development toolkit for Claude Code
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/hamzashahbaz)
