@@ -24,15 +24,6 @@
 - 📬 **[outlook-mcp](https://github.com/hamzashahbaz/outlook-mcp)** - MCP server for Microsoft's Graph API - 🟢 Live
 - 🔒 **[ai-security-skill](https://github.com/hamzashahbaz/ai-security-skill)** - Prompt-based security audit for AI systems - 🟢 Live
 
-## Legacy Work
-
-- 🧩 **[fiberui](https://github.com/hamzashahbaz/fiberui)** - React UI component library with styled-components
-- 🎨 **[styleup](https://github.com/hamzashahbaz/styleup)** - CSS framework for faster UI development
-- 📐 **[responsive-sass-mixin](https://github.com/hamzashahbaz/responsive-sass-mixin)** - Sass responsive utility mixin
-- 🖥️ **[restful-server](https://github.com/hamzashahbaz/restful-server)** - Production-ready RESTful server in Node.js
-- 📄 **[wordpress-theme-starter](https://github.com/hamzashahbaz/wordpress-theme-starter)** - WordPress theme starter with modern tooling
-- 🏠 **[airbnb-clone](https://github.com/hamzashahbaz/airbnb-clone)** - Airbnb clone in TypeScript
-
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/hamzashahbaz)
@@ -67,7 +58,7 @@
 
 ### Philosophy
 
-> "Ship beats perfect. AI beats manual. Systems beat hustle." - I spent 13 years learning how the web works. Now I build the systems that let AI work the web for me.
+> Ship beats perfect. AI beats manual. Systems beat hustle. I spent 13 years learning how the web works. Now I build the systems that let AI work the web for me.
 
 <details>
 <summary>Random Facts</summary>
